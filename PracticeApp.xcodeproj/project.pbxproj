@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		34275DF02295141400F32D79 /* PlaySoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34275DEF2295141400F32D79 /* PlaySoundsViewController.swift */; };
+		34275DF22295305A00F32D79 /* PlaySoundsViewController+Audio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34275DF12295305A00F32D79 /* PlaySoundsViewController+Audio.swift */; };
 		34A6A111228C0212005779CA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34A6A110228C0212005779CA /* AppDelegate.swift */; };
 		34A6A113228C0212005779CA /* RecordSoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34A6A112228C0212005779CA /* RecordSoundsViewController.swift */; };
 		34A6A116228C0212005779CA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34A6A114228C0212005779CA /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		34275DEF2295141400F32D79 /* PlaySoundsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaySoundsViewController.swift; sourceTree = "<group>"; };
+		34275DF12295305A00F32D79 /* PlaySoundsViewController+Audio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PlaySoundsViewController+Audio.swift"; sourceTree = "<group>"; };
 		34A6A10D228C0212005779CA /* PracticeApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PracticeApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		34A6A110228C0212005779CA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		34A6A112228C0212005779CA /* RecordSoundsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordSoundsViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				34A6A119228C0214005779CA /* LaunchScreen.storyboard */,
 				34A6A11C228C0214005779CA /* Info.plist */,
 				34275DEF2295141400F32D79 /* PlaySoundsViewController.swift */,
+				34275DF12295305A00F32D79 /* PlaySoundsViewController+Audio.swift */,
 			);
 			path = PracticeApp;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				34A6A113228C0212005779CA /* RecordSoundsViewController.swift in Sources */,
+				34275DF22295305A00F32D79 /* PlaySoundsViewController+Audio.swift in Sources */,
 				34275DF02295141400F32D79 /* PlaySoundsViewController.swift in Sources */,
 				34A6A111228C0212005779CA /* AppDelegate.swift in Sources */,
 			);
