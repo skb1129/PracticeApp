@@ -1,6 +1,6 @@
 //
 //  RecordSoundsViewController.swift
-//  PracticeApp
+//  SoundMixer
 //
 //  Created by Surya Kant Bansal on 15/05/19.
 //  Copyright © 2019 Dexter. All rights reserved.

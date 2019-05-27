@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:PracticeApp.xcodeproj">
+      location = "self:/Users/dexter/GitHub/PracticeApp/SoundMixer.xcodeproj">
    </FileRef>
 </Workspace>

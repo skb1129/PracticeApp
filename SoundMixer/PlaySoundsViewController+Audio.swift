@@ -1,6 +1,6 @@
 //
 //  PlaySoundsViewController+Audio.swift
-//  PitchPerfect
+//  SoundMixer
 //
 //  Copyright Â© 2016 Udacity. All rights reserved.
 //
